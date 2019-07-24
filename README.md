@@ -1,2 +1,2 @@
 # Pagina-Sena
-Esta es una pagina para un proyecto del sena :)
+Esta es una pagina para un proyecto del sena 
